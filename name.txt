@@ -1,0 +1,229 @@
+Arsenal-阿森纳队
+Aston Villa-阿斯顿维拉队
+Barnsley-巴恩斯利队
+Birmingham City-伯明翰城队
+Blackburn Rovers-布莱克本流浪队
+Bolton Wanderers-博尔顿流浪者队
+Chelsea-切尔西队
+Coventry City-考文垂队
+Crystal Palace-水晶宫队
+Everton-埃弗顿队
+Leeds United-利兹联队
+Leicester City-莱斯特城队
+Liverpool-利物浦队
+Manchester City-曼切斯特城队
+Manchester United-曼切斯特联队
+Middlesbrough-米德尔斯堡队
+Newcastle-纽卡斯尔队
+Nottingham Forest-诺丁汉森林队
+Queens Park Rangers-昆士帕流浪队
+Sheffield Wednesday-谢菲尔德星期三队
+Southampton-南安普顿队
+Tottenham Hotspur-托特纳姆热刺队
+Westham-西汉姆队
+Wimbledon-温布尔顿队
+-----------------------------------------
+苏格兰
+Aberdeen-阿伯丁队
+Celtic Glasgow-格拉斯高凯尔特人队
+Clydebank-克莱德班队
+Dunde United-邓迪联队
+Falkik-福尔柯克队
+Glasgow Rangers-格拉斯高流浪队
+Hibenian-喜伯年队
+---------------------------------------
+法国
+Auxerre-欧塞尔队
+Bastia-巴斯蒂亚队
+Bordeaux-波尔多队
+Cannes-戛纳队
+Le Haver-勒阿弗尔队
+Lens-朗斯队
+Lorient-洛里昂队
+Lyon-里昂队
+Marseille-马赛队
+Metz-梅斯队
+Monaco-摩纳哥队
+Montpellier-蒙彼利埃队
+Nancy-南锡队
+Nantes-南特队
+Nice-尼斯队
+Paris St German-巴黎圣日尔曼队
+Rennes-雷恩队
+Sochaux-索肖队
+Strasbourg-斯特拉斯堡队
+Toulouse-图卢兹队
+------------------------------------
+德国
+Bayern Leverkusen-拜仁勒沃库森队
+Bayern Munich-拜仁慕尼黑队
+Bielefield-比勒费尔德队
+Bochum-波鸿队
+Cologne-科隆队
+Dortmund-多特蒙德队
+Duisburg-杜伊斯堡队
+Fort Dusseldorf-杜塞道夫队
+Frankfurt-法兰克福队
+Hambourg SU-汉堡SU队
+Hertha Berlin-柏林赫塔队
+Kaiserslauterm-凯泽斯劳滕队
+Karlsruhe-卡尔斯鲁厄队
+Monchengladbach-门兴格拉德巴赫队
+1860 Munchen-慕尼黑1860队
+Nuremberg-纽伦堡队
+Rostock-罗斯托克队
+Schalke-沙尔克队
+Stuttgart-斯图加特队
+Werder Bremen-沃尔代尔不来梅队
+Wolfsburg-沃尔夫斯堡队
+Zwickau-茨维考队
+---------------------------------------
+意大利
+Ac Milan-AC米兰
+Atlanta-亚特兰大队
+Bari-巴厘队
+Bologna-博洛尼亚队
+Brescia-布雷西亚队
+Cagliari-卡格利亚里队
+Cremona-克雷莫纳队
+Empoli-埃姆波利队
+Fiorentina-佛罗伦萨队
+Foggia-福贾队
+Gonea-热那亚队
+Inter Milan-国际米兰队
+Juventus-尤文图斯队
+Lazio-拉齐奥队
+Lecce-莱切队
+Napoli-那波利队
+Padova-帕多瓦队
+Parma-帕尔马队
+Piacenza-皮亚琴察队
+Perugia-佩鲁贾队
+Reggianna-雷吉亚那队
+Roma-罗马队
+Saleritana-萨勒尼塔纳队
+Sampdoria-桑普多里亚队
+Torino-都灵队
+Udines-乌迪内斯队
+Venezia-威尼斯队
+Vicenza-维琴察队
+----------------------------------------
+荷兰
+Ajax Amsterdam-阿贾克斯阿姆斯特丹队
+Feyenoord-费耶诺德队
+P.S.V. Eindhoven-P.S.V埃因霍温队
+----------------------------------------
+西班牙
+Alavés-阿拉维斯队
+Athletic Bilbao-比尔巴鄂竞技队
+Atletico Madrid-马德里竞技队
+Betis-皇家贝蒂斯队
+Celta de Vigo-塞尔塔维戈队
+Compstela-孔波斯特拉队
+Espanyol-西班牙人队
+FC Barcelona-巴塞罗那队
+Gijon-希洪竞技队
+Mallorca-马洛卡队
+Deportivo de La Coruna-拉科鲁尼亚队
+Oviedo-奥维耶多队
+Real Madrid-皇家马德里队
+Real Socidad-皇家社会队
+Real Valladolid-瓦拉杜利德队
+Salamanca-萨拉曼卡队
+Santander Racing-桑坦德竞技队
+Seville-塞维利亚队
+Tenerife-特尼里费队
+Valencia-瓦伦西亚队
+Villarreal-维拉里尔队
+Zaragoza-萨拉格萨队
+CA Osasuna-奥萨苏纳
+Mallorca-马洛卡
+
+--------------------------------------
+希腊
+AEK Athens-AEK雅典队
+Olympikos-奥林匹克队
+Panathinaikos-潘奈提纳科斯队
+-------------------------------------
+葡萄牙
+Benfica-本菲卡队
+Braga-布拉加队
+FC Porto-波尔图队
+Sporting Lisbon-运动里斯本队
+Sporting Clube de Portugal-里斯本竞技
+Nacional 国民队
+-------------------------------------
+南斯拉夫
+Dynamo Zagreb-萨格勒布迪那摩队
+Hajduk Split-哈德克霹雳队
+Partizan Belgrade-贝尔格莱德游击队队
+Red Star Belgrade-贝尔格莱德红星队
+---------------------------------------
+俄罗斯 乌克兰
+Dynamo Moscow-莫斯科迪那摩队
+Dynamo Kyiv-基辅迪那摩队
+Moscow Torpedo-莫斯科鱼雷队
+Moscow Lokomotive-莫斯科火车头队
+Spartak Moscow-莫斯科斯巴达队
+----------------------------------------
+捷克
+Banik Ostrava-宾尼克奥斯特拉瓦队
+Budejovice-布捷约维采队
+Dukla Prague-布拉格杜克拉队
+Slavia Prague-布拉格斯拉维亚队
+Slovan Bratislava-斯洛凡布拉迪斯拉发队
+Spata Prague-布拉格斯巴达队
+Teplice-特普利策队
+-----------------------------------------
+巴西
+Bangu-班古队
+Botafago-波塔冯戈队
+Corinthians-科林第安斯队
+Cruzeiro-克鲁塞罗队
+Flamengo-弗拉门戈队
+Fluminense-弗卢米伦斯队
+Palmeiras-帕尔梅拉斯队
+Rio Branco-里约布兰科队
+Santos-桑托斯队
+Sao Paulo-圣保罗队
+Sport Club Recife-累西腓体育队
+Vasco Da Gama-瓦斯科达伽马队
+Gremio FBPA-格雷米奥
+------------------------------------------
+阿根廷
+Argentinos Janiors-阿根廷人青年队
+Belgrano-贝尔格拉诺队
+Boca Juniors-博卡青年队
+Estudiantes-大学生队
+Gimnasia-吉姆纳西亚队
+Independiente-独立队
+Lanus-拉努斯队
+Platense-普拉顿斯队
+Racing Club-竞争队
+River Plate-河床队
+Rosario Central-罗萨里奥中央队
+San Lorenzo-圣劳伦佐队
+Velez Sarsfield-维利斯萨斯费尔德队
+Newell's Old Boy-纽威尔老伙计队
+-------------------------------------------
+日本
+Bellmare Hiratsuka-平涿大海队
+Cerezo Osaka-大阪樱花队
+Gamba Osaka-大阪冈巴队
+Jubilo Iwata-磐田朱比洛队
+Kashima Antlers-鹿岛鹿角队
+Kashiwa Reysol-柏太阳神队
+Kyoto Purple Sanga-京都紫桑加队
+Nogoya Grampus eight-名古屋八鲸队
+Sanfrencce Hiroshima-广岛三箭队
+Shimizu S-Pulse-清水脉冲队
+Urawa Red Diamond-浦和红宝石队
+Verdy Kawasaki 川崎绿茵队
+Yokohama Flugels-横滨飞翼队
+Yokohama Marines-横滨水手队
+---------------------------------------------
+瑞典
+Malmo FF-马尔默
+---------------------------------------------
+其他
+

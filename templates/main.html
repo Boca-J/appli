@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>app</title>
+   <style>
+      body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid #ccc;
+            justify-content: space-between;
+            border-bottom: 3px solid #ccc;
+        }
+         .title {
+            font-size: 24px;
+            margin-right:50px;
+            margin-left: 10px;
+
+        }
+      .post-container {
+        border: 2px solid #000; /* Add a 2px solid border with black color */
+        padding: 10px; /* Add some padding to create space between content and border */
+      }
+
+   </style>
+</head>
+<body>
+
+   	<form action="/result" method="post" enctype="multipart/form-data" class="vertical-form">
+        <div class="form-group">
+            <label for="profit">利润率</label>
+            <input type="text" name="profit" id="profit" required/>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="提交"/>
+        </div>
+        <input type="hidden" name="operation" value="login"/>
+    </form>
+
+    {% if bool %}
+        {% for match in matches %}
+             <div class = post-container>
+                <p> {{match.home_name}} vs  {{match.away_name}} 利润率： {{match.profit}} </p>
+                <p> 主队赢赔率: {{match.home_odds}}， 网站：{{match.home_web}}， 下注金额： 百分之 {{match.home}}</p>
+                <p> 客队赢赔率: {{match.away_odds}}， 网站：{{match.away_web}}， 下注金额： 百分之 {{match.away}}</p>
+                <p> 平的赔率: {{match.draw_odds}}, 网站：{{match.draw_web}}, 下注金额： 百分之 {{match.draw}}</p>
+             </div>
+        {% endfor %}
+    {% endif %}
+
+
+
+</body>
+
+</html>

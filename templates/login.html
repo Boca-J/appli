@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>app</title>
+   <style>
+      body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid #ccc;
+            justify-content: space-between;
+            border-bottom: 3px solid #ccc;
+        }
+         .title {
+            font-size: 24px;
+            margin-right:50px;
+            margin-left: 10px;
+
+        }
+
+   </style>
+</head>
+<body>
+
+	
+   	<form action="/account" method="post" enctype="multipart/form-data" class="vertical-form">
+        <div class="form-group">
+            <label for="username">Username:</label>
+            <input type="text" name="username" id="username" required/>
+        </div>
+        <div class="form-group">
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password" required/>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Login"/>
+        </div>
+        <input type="hidden" name="operation" value="login"/>
+    </form>
+
+
+
+
+</body>
+
+</html>

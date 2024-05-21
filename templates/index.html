@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Match Odds</title>
+    <style>
+        .match {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Match Odds</h1>
+    <div id="matches"></div>
+
+    <script>
+        fetch('/get_data')
+            .then(response => response.json())
+            .then(data => {
+                const matchesDiv = document.getElementById('matches');
+                data.forEach(match => {
+                    const matchDiv = document.createElement('div');
+                    matchDiv.className = 'match';
+                    matchDiv.innerHTML = `
+                        <p>${match.home_name} vs ${match.away_name} (Profit: ${match.profit}%)</p>
+                        <p>Home Odds: ${match.home_odds} (${match.home_web})</p>
+                        <p>Draw Odds: ${match.draw_adds} (${match.draw_web})</p>
+                        <p>Away Odds: ${match.away_odds} (${match.away_web})</p>
+                    `;
+                    matchesDiv.appendChild(matchDiv);
+                });
+            });
+    </script>
+</body>
+</html>
